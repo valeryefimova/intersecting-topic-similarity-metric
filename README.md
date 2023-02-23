@@ -1,11 +1,3 @@
-# Strong paraphrase generation using universal transformer - 2020
-
-[![License](http://img.shields.io/:license-MIT-blue.svg?style=flat-square)](LICENSE)
-
-> Software implementation of research in the framework of graduate qualification work
-
-Research of the generation of strong paraphrases and new metrics for the validation of strong paraphrases.
-
 ## Project structure
 
 Top-level directory structure with a short description of the contents.
